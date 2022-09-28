@@ -13,5 +13,7 @@
 	<classpathentry kind="lib" path="C:/Users/Calibraint/Documents/Downloaded Apps/Selenium/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Calibraint/Documents/Downloaded Apps/Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Calibraint/Documents/Downloaded Apps/Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calibraint/Downloads/jar_files (1)/selenium-api-3.0.0-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calibraint/Downloads/commons-io-2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
